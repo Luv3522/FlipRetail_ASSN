@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FlipReatil_ASSN</string>
+    <string name="notification_listener_service_label">My Notification Listener</string>
+</resources>
